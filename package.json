@@ -1,0 +1,23 @@
+{
+  "name": "server-b",
+  "version": "1.0.0",
+  "description": "Server for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dazelpro/server-b.git"
+  },
+  "author": "ZEL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dazelpro/server-b/issues"
+  },
+  "homepage": "https://github.com/dazelpro/server-b#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
